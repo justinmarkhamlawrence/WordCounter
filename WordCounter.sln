@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextUtils", "TextUtils\TextUtils.csproj", "{91F22E53-6456-482D-B3ED-1D2FCE6E91B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{5E2512B4-DCCB-484F-8DFD-EF6F6EA31B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounterApp", "WordCounterApp\WordCounterApp.csproj", "{407BE2EB-9002-4B0E-99EA-3E50BBA21A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F22E53-6456-482D-B3ED-1D2FCE6E91B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F22E53-6456-482D-B3ED-1D2FCE6E91B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F22E53-6456-482D-B3ED-1D2FCE6E91B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F22E53-6456-482D-B3ED-1D2FCE6E91B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2512B4-DCCB-484F-8DFD-EF6F6EA31B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2512B4-DCCB-484F-8DFD-EF6F6EA31B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2512B4-DCCB-484F-8DFD-EF6F6EA31B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2512B4-DCCB-484F-8DFD-EF6F6EA31B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407BE2EB-9002-4B0E-99EA-3E50BBA21A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407BE2EB-9002-4B0E-99EA-3E50BBA21A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407BE2EB-9002-4B0E-99EA-3E50BBA21A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407BE2EB-9002-4B0E-99EA-3E50BBA21A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
